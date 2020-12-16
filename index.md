@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome to donnieSky's blog
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. 
+
+## This is github pages with jekyll!
